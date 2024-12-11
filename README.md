@@ -1,8 +1,9 @@
-### Hello, I'm Yaroslav 👋
+### Привет, я Ярослав 👋
 
-I am frontend developer, studying at the IRIT-RTF in the 4th year
+Я фронтенд разработчик. Выпускник института ИРИТ РТФ по специальности "Программная инженерия"/ Вовлечен в изучение веб разработки уже больше 3-х лет, имею около 2-х лет опыта фриланса и коммерческой разработки. 
+Учавствовал как в разработке больших проектов, так и писал проекты среднего размера проектов полностью с нуля.
 
-### Skills and Tools
+### Навыки и инструменты разработки
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -16,7 +17,7 @@ I am frontend developer, studying at the IRIT-RTF in the 4th year
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <br />
 
-### You can contact me:
+### Контакты для связи:
 [<img align="left" alt="VK" width="26px" src="https://cdn-icons-png.flaticon.com/512/145/145813.png" />][vkontakte]
 [<img align="left" alt="VK" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
 [<img align="left" alt="VK" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" />][telegram]
